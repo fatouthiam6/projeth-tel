@@ -1,0 +1,152 @@
+
+    
+.logo{
+    width:60px;
+}
+
+.nav {
+    display: flex;
+    justify-content: space-between; 
+    align-items: center; 
+}
+.emplacement{
+    margin: 30px;
+   padding-right: 30px; ;
+}
+.horizon
+.para{
+    color: #cac8c8;
+}
+.modif{
+    border-radius: 25px ;
+}
+.searchText{
+    background-color: rgb(3, 147, 249);
+    border-radius: 25px;
+   padding-right:20px;
+}
+.reserver{
+    background-color: rgb(136, 138, 139);
+    border-radius: 25px;
+   padding-right:20px;
+}
+.horizon {
+    display: flex; 
+    align-items: left;
+   flex-direction: column;
+}
+
+ul {
+    display: flex; 
+    list-style: none; 
+    padding: 0; 
+   
+}
+
+li {
+    margin-right: 10px; 
+    border: 1px solid #ccc;
+    border-radius: 10px;
+    padding: 5px;
+    margin:5px;
+    width: 140px;
+    padding-left: 10px;
+}
+
+#economique {
+    color: blue; 
+}
+#familial {
+    color: blue; 
+}
+
+#romantique {
+    color: blue;
+}
+
+#pepites {
+    color: blue;
+}
+#infos{
+    color: blue;
+    border: 1px solid #6d6d6d;
+  border-radius: 10px;
+    width: 20px;
+    height: 20px;
+    padding-left: 10px;
+    padding-right: 10px;
+    
+}
+.pa{
+    color: #999999;
+    font-size: small;
+}
+.sa{
+    color:#999999
+}
+
+#fa{
+    color: blue;
+}
+#amy{
+    color: blue;
+}
+#yamou{
+    color: blue;
+}
+#as{
+    color: blue;
+}
+#ma{
+    color: blue;
+}
+
+.card-modif{
+    display:flex;
+    justify-content: space-between;
+    margin-bottom:30px; 
+ 
+    flex-wrap: wrap;
+    background-color: #dedede;
+}
+.card{
+    margin-right: 10px;
+}
+#man{
+    color: blue;
+}
+.container{
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    padding: 20px;
+    margin: 20px;
+  background-color: #eae8e8;
+    
+}
+.fan{
+    display: flex;
+   
+    justify-content: space-between;
+   
+}
+.align{
+    align-items: end;
+}
+#activite{
+    
+    display: flex;
+ 
+    justify-content:space-around;
+    border-radius: 10px;
+   
+}
+.foot{
+    background-color: #cac8c8;
+    display: flex;
+    justify-content: space-around;
+    font-size: smaller;
+}
+.filtres{
+    font-size: large;
+}
